@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api/sales';
+const API_URL = 'https://truestate-assign.onrender.com/api/sales';
 
 export const fetchSales = async (params) => {
     try {
